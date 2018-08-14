@@ -5,7 +5,7 @@ Check out the Deployed version: [Youphonic](https://smolvera.github.io/Youphonic
 
 <h1 align="center">
   <br>
-  <img src="https://github.com/Southerngirl13/group-project-2/blob/master/assets/images/project.gif">
+  
 </h1>
 <img src="https://github.com/Southerngirl13/group-project-2/blob/master/assets/images/readme2.jpg">
 
