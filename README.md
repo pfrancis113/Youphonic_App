@@ -5,7 +5,7 @@ Check out the Deployed version: [Youphonic](https://smolvera.github.io/Youphonic
 
 <h1 align="center">
   <br>
-  
+  <img src="https://github.com/Southerngirl13/group-project-2/blob/master/assets/images/project.gif">
 </h1>
 <img src="https://github.com/Southerngirl13/group-project-2/blob/master/assets/images/readme2.jpg">
 
@@ -25,5 +25,3 @@ Check out the Deployed version: [Youphonic](https://smolvera.github.io/Youphonic
 * **Kim Swope** - Full Stack Developer - [Kim Swope](https://github.com/Southerngirl13)
 * **Jamar Parham** - Full Stack Developer - [Jamar Parham](https://github.com/JParham23)
 * **Patrick Francis** - Full Stack Developer - [Patrick Francis](https://github.com/pfrancis113)
-
-Author: [Samantha Olvera](https://github.com/smolvera)
