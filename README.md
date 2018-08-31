@@ -10,14 +10,14 @@ Check out the Deployed version: [Youphonic](https://smolvera.github.io/Youphonic
 
 
 
-## Technologies Used
+## Technologies 
  - HTML, Bootstrap, CSS
  - YouTube API 
  - MusixMatch API
  - JavaScript/jQuery
  
 ### Further Development:
-- Youtube API 
+- Integration/debugging of Youtube API 
 
 #### Contributing Team:
 
