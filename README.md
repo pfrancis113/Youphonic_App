@@ -1,5 +1,7 @@
 # Youphonic
-A Song Lyric search application 
+An Integrated Song, Lyric, and Video search application. <br>
+Hear the music, see the visuals, get the story behind your favorite songs. <br>
+All at one place.
 
 Check out the Deployed version: [Youphonic](https://smolvera.github.io/Youphonic_App/)
 
